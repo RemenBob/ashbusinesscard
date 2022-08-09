@@ -1,0 +1,25 @@
+.body {
+font-family: verdana;
+}
+
+.ash-img {
+width: 150px;
+Height: 125px;
+
+
+
+
+}
+
+.card {
+width: 450px;
+margin: 100px auto;
+Padding: 20px;
+display: flex;
+justify-content: space-around;
+Text-align: center;
+Background: lightblue;
+Color: black;
+Border-bottom: 5px solid #728FCE;
+
+}
